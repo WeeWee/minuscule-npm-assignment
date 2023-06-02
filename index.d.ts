@@ -1,0 +1,1 @@
+export declare const Minuscule: (sentence: string) => string
